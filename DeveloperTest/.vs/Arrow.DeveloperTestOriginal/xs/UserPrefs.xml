@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{14B8C42C-A7C1-45C8-826B-B358761CF99D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Arrow.DeveloperTest.Runner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrow.DeveloperTestOriginal" expanded="True" selected="True">
+            <Node name="Arrow.DeveloperTest.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

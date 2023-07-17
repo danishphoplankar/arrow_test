@@ -1,0 +1,10 @@
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.deps.json
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.csproj.AssemblyReference.cache
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfoInputs.cache
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.AssemblyInfo.cs
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.csproj.CoreCompileInputs.cache
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb

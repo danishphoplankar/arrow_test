@@ -1,0 +1,17 @@
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.exe
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.deps.json
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.runtimeconfig.json
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.runtimeconfig.dev.json
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.dll
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.pdb
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.dll
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\bin\Debug\netcoreapp3.0\Arrow.DeveloperTest.pdb
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.csproj.AssemblyReference.cache
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.AssemblyInfoInputs.cache
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.AssemblyInfo.cs
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.csproj.CoreCompileInputs.cache
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.csproj.CopyComplete
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.dll
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.pdb
+C:\Users\Danish\Downloads\Arrow\DeveloperTest\Arrow.DeveloperTest.Runner\obj\Debug\netcoreapp3.0\Arrow.DeveloperTest.Runner.genruntimeconfig.cache

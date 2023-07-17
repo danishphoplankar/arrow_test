@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Arrow.DeveloperTest.Runner": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    }
+  }
+}
